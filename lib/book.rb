@@ -5,7 +5,7 @@ class Book
   end
   
   def title=(title)
-    @title = "And Then There Were None"
+    @title = title
   end
   
   def title
